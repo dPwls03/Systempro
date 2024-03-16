@@ -1,40 +1,265 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>System Programming</title>
-</head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>React</title>
 <style>
-    img { 
-        width: 30px; height: 30px; 
-    }
-    .button {
-        width: 200px;
-        height: 40px;
-        margin: 3px;
-        font-size: 18px;
-        background-color: white;
-        color: black;
-        border: 3px solid #1466b8;
-        border-radius: 8px;
-        cursor: pointer;
-    }
-    .button:hover {
-        background-color: #1466b8;
-        color: white; 
-    }
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.card {
+    width: 250px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+
+.card-header h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.card-content {
+    padding: 20px;
+    transition: background-color 0.3s;
+    background-color: white;
+    color: black;
+}
+
+.card-content p {
+    margin-bottom: 0;
+}
+
+.card-footer {
+    font-weight: normal;
+    text-decoration: none; 
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+  }
+
+.card-footer a {
+    font-weight: normal;
+    text-decoration: none;
+    color: black;
+}
+
+.card-footer a:hover {
+    font-weight: bold;
+    color: #4DA4FF;
+}
+
+.card-content a {
+    text-decoration: none;
+    color: black;
+}
+
+.card-content a:hover {
+    font-weight: bold;
+    color: white;
+}
+
+.card-content:hover {
+    background-color: #BFDEFF;
+    color: white;
+}
+
+.card-containerbr {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
 </style>
+</head>
 <body>
-    <h1>React</h1>
-    <hr>
-    <h2>2024-03-12-화</h2>
-    <h3>[문제]</h3>
-    
-    <h3>[수업내용 및 발표자료]</h3>
-    <a href="https://github.com/dPwls03/Systempro/tree/main/0312"> <button class="button">수업내용 및 발표자료</button></a>
-   
+<h2>React</h2>
+<hr>
+<center>
+<div class="card-container">
+    <div class="card">
+        <div class="card-header">
+            <center><h3>2024-03-12-화 (2주차)</h3></center>
+        </div>
+        <div class="card-content">
+            <p>
+                <center><a href="#">실 습 문 제</a></center>
+            </p>
+        </div>
+        <div class="card-footer">
+            <center><a href="https://github.com/dPwls03/Systempro/tree/main/0312">수업내용 및 발표자료</a></center>
+        </div>
+      </div>
+
+  <div class="card">
+    <div class="card-header">
+      <center><h3>2024-03-19-월 (3주차)</h3></center>
+    </div>
+    <div class="card-content">
+        <p>
+            <center><a href="#">실 습 문 제</a></center>
+        </p>
+    </div>
+    <div class="card-footer">
+        <center><a href="#">수업내용 및 발표자료</a></center>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">
+      <center><h3>2024-03-26-월 (4주차)</h3></center>
+    </div>
+    <div class="card-content">
+        <p>
+            <center><a href="#">실 습 문 제</a></center>
+        </p>
+    </div>
+    <div class="card-footer">
+        <center><a href="#">수업내용 및 발표자료</a></center>
+    </div>
+  </div>
+
+  <div class="card-containerbr">
+  <div class="card">
+    <div class="card-header">
+      <center><h3>2024-04-02-월 (5주차)</h3></center>
+    </div>
+    <div class="card-content">
+        <p>
+            <center><a href="#">실 습 문 제</a></center>
+        </p>
+    </div>
+    <div class="card-footer">
+        <center><a href="#">수업내용 및 발표자료</a></center>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">
+      <center><h3>2024-04-09-월 (6주차)</h3></center>
+    </div>
+    <div class="card-content">
+        <p>
+            <center><a href="#">실 습 문 제</a></center>
+        </p>
+    </div>
+    <div class="card-footer">
+        <center><a href="#">수업내용 및 발표자료</a></center>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">
+      <center><h3>2024-04-16-월 (7주차)</h3></center>
+    </div>
+    <div class="card-content">
+        <p>
+            <center><a href="#">실 습 문 제</a></center>
+        </p>
+    </div>
+    <div class="card-footer">
+        <center><a href="#">수업내용 및 발표자료</a></center>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">
+      <center><h3>2024-04-30-월 (9주차)</h3></center>
+    </div>
+    <div class="card-content">
+        <p>
+            <center><a href="#">실 습 문 제</a></center>
+        </p>
+    </div>
+    <div class="card-footer">
+        <center><a href="#">수업내용 및 발표자료</a></center>
+    </div>
+  </div>
+</div>
+
+<div class="card-containerbr">
+  <div class="card">
+    <div class="card-header">
+      <center><h3>2024-05-07-월 (10주차)</h3></center>
+    </div>
+    <div class="card-content">
+        <p>
+            <center><a href="#">실 습 문 제</a></center>
+        </p>
+    </div>
+    <div class="card-footer">
+        <center><a href="#">수업내용 및 발표자료</a></center>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">
+      <center><h3>2024-05-14-월 (11주차)</h3></center>
+    </div>
+    <div class="card-content">
+        <p>
+            <center><a href="#">실 습 문 제</a></center>
+        </p>
+    </div>
+    <div class="card-footer">
+        <center><a href="#">수업내용 및 발표자료</a></center>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">
+      <center><h3>2024-05-21-월 (12주차)</h3></center>
+    </div>
+    <div class="card-content">
+        <p>
+            <center><a href="#">실 습 문 제</a></center>
+        </p>
+    </div>
+    <div class="card-footer">
+        <center><a href="#">수업내용 및 발표자료</a></center>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">
+      <center><h3>2024-05-28-월 (13주차)</h3></center>
+    </div>
+    <div class="card-content">
+        <p>
+            <center><a href="#">실 습 문 제</a></center>
+        </p>
+    </div>
+    <div class="card-footer">
+        <center><a href="#">수업내용 및 발표자료</a></center>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">
+      <center><h3>2024-06-04-월 (14주차)</h3></center>
+    </div>
+    <div class="card-content">
+        <p>
+            <center><a href="#">실 습 문 제</a></center>
+        </p>
+    </div>
+    <div class="card-footer">
+        <center><a href="#">수업내용 및 발표자료</a></center>
+    </div>
+  </div>
+</div>
+
+</div>
+</center>
 </body>
 </html>
-
-
