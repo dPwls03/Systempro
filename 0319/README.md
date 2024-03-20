@@ -17,7 +17,8 @@
 <img width="800" src="./img/0320.jpg" alt="root" >
 <p>이미지에 보이는 것과 같이 명령어를 입력하면 만들 수 있다.<p>
 <br>
-<h3>명령어 활용하기<h3>
+
+### 명령어 활용하기
 <img width="800" src="./img/cat.jpg" alt="cat" >
 <p>cat명령어로 cs2.txt에 내용적기</p>
 <br>
