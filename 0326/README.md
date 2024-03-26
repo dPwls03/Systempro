@@ -4,6 +4,15 @@
 <a href="https://dpwls03.github.io/Systempro/0326/동기, 비동기와 블로킹 논-블로킹.pdf">[발표자료]</a>
 
 [발표내용]
+
+동기(Synchronous)는
+
+비동기(Asynchronous)는
+
+블로킹(Bloking)는
+
+논-블로킹(Non-Bloking)는
+
 <hr>
 
 ### 수업내용
