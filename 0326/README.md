@@ -27,3 +27,30 @@
 <hr>
 
 ### 수업내용
+
+<img width="800" src="./img/vi.jpg" alt="dir" >
+<img width="800" src="./img/vi2.jpg" alt="dir" >
+<p>[ 명령어 ]</p>
+<p>커서 이동 ctrl + 화살표</p>
+<p>i, a, o - 편집모드로 가기</p>
+<p>esc - 명령모드로 가기</p>
+<p>:w - 변경된 내용 저장 (명령모드에서 치는 명령어) </p>
+<p>:set nu - 코드 라인 보이게 하기 (명령모드에서 치는 명령어) </p>
+<p>:wq - 변경된 내용 저장 후 나가기 (명령모드에서 치는 명령어) </p>
+<p>:q - 종료하기 (명령모드에서 치는 명령어) </p>
+
+<img width="800" src="./img/gcc.jpg" alt="dir" >
+<img width="800" src="./img/gcc2.jpg" alt="dir" >
+
+<img width="800" src="./img/hellocode.jpg" alt="dir" >
+<p>hello.c 실행 결과</p>
+
+<img width="800" src="./img/hello.jpg" alt="dir" >
+<p>hello.c 코드</p>
+
+<img width="800" src="./img/vicode.jpg" alt="dir" >
+<p>vi long.c로 코드 작성준비</p>
+
+<img width="800" src="./img/longcode.jpg" alt="dir" >
+<p>long.c 코드 작성하기</p>
+
