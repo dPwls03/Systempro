@@ -18,3 +18,41 @@
 
 ### 수업내용
 
+<img width="800" src="./img/fsizeppt.jpg" alt="fsize" >
+
+<img width="800" src="./img/fsizec.jpg" alt="fsize" >
+<p>fsize.c 코드</p>
+<img width="800" src="./img/fsize.jpg" alt="fsize" >
+<p>fsize.c 실행</p>
+
+<img width="800" src="./img/copyppt.jpg" alt="copy" >
+
+<img width="800" src="./img/copyc.jpg" alt="fsize" >
+<p>copy.c 코드</p>
+
+<img width="800" src="./img/dupcppt.jpg" alt="dup" >
+<p>dup()함수는 기존 파일 디스크립터를 복제해서 새로운 파일 디스크립터를 반환하는 함수이다.</p>
+<img width="800" src="./img/dupc.jpg" alt="dup" >
+<p>fsize.c 코드</p>
+<img width="800" src="./img/dup.jpg" alt="dup" >
+<p>fsize.c 실행</p>
+
+<img width="800" src="./img/lseekppt.jpg" alt="lseek" >
+<p>lseek()함수는 임의의 위치로 파일 위치 포인터를 이동시킬 수 있다.</p>
+<p>이동에 성공하면 현재 위치를 리턴하고 실패하면 -1을 리턴한다.</p>
+
+<img width="800" src="./img/studenth.jpg" alt="studenth" >
+<p>student.h 코드</p>
+
+<img width="800" src="./img/dbcreatec.jpg" alt="dbcreatec" >
+<p>dbcreate.c 코드</p>
+
+<img width="800" src="./img/dbqueryc.jpg" alt="dbqueryc" >
+<p>dbquery.c 코드</p>
+
+<img width="800" src="./img/dbupdatec.jpg" alt="dbupdatec" >
+<p>dbupdate.c 코드</p>
+
+<img width="800" src="./img/main.jpg" alt="main" >
+<p>open() 시스템 호출은 파일을 열고 열린 파일의 파일 디스크립터를 반환한다.</p>
+<p>파일 위치 포인터는 파일 내에 읽거나 쓸 위치인 현재 파일 위치를 가리킨다.</p>
