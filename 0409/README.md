@@ -25,17 +25,18 @@
 <img width="800" src="./img/fsize.jpg" alt="fsize" >
 <p>fsize.c 실행</p>
 
-<img width="800" src="./img/copyppt.jpg" alt="copy" >
+<img width="800" src="./img/copycppt.jpg" alt="copy" >
 
 <img width="800" src="./img/copyc.jpg" alt="fsize" >
 <p>copy.c 코드</p>
 
 <img width="800" src="./img/dupcppt.jpg" alt="dup" >
-<p>dup()함수는 기존 파일 디스크립터를 복제해서 새로운 파일 디스크립터를 반환하는 함수이다.</p>
+
 <img width="800" src="./img/dupc.jpg" alt="dup" >
-<p>fsize.c 코드</p>
+<p>dup.c 코드</p>
+
 <img width="800" src="./img/dup.jpg" alt="dup" >
-<p>fsize.c 실행</p>
+<p>dup()함수는 기존 파일 디스크립터를 복제해서 새로운 파일 디스크립터를 반환하는 함수이다.</p>
 
 <img width="800" src="./img/lseekppt.jpg" alt="lseek" >
 <p>lseek()함수는 임의의 위치로 파일 위치 포인터를 이동시킬 수 있다.</p>
