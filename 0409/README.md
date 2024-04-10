@@ -57,3 +57,24 @@
 <img width="800" src="./img/main.jpg" alt="main" >
 <p>open() 시스템 호출은 파일을 열고 열린 파일의 파일 디스크립터를 반환한다.</p>
 <p>파일 위치 포인터는 파일 내에 읽거나 쓸 위치인 현재 파일 위치를 가리킨다.</p>
+
+#### Argc, Argv
+
+<img width="800" src="./img/helloc.jpg" alt="argc" >
+<p>코드</p>
+<img width="800" src="./img/hellostart.jpg" alt="argc" >
+<p>실행</p>
+
+#### ssixe_t, size_t
+
+<img width="800" src="./img/test1c.jpg" alt="argc" >
+<p>코드</p>
+<img width="800" src="./img/test1start.jpg" alt="argc" >
+<p>실행</p>
+
+#### File Desciptor
+
+<img width="800" src="./img/file1c.jpg" alt="fd" >
+<p>코드</p>
+<img width="800" src="./img/file1start.jpg" alt="fd" >
+<p>실행</p>
