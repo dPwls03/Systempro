@@ -13,7 +13,6 @@
 <p>한 파일은 하나의 i 노드를 갖는다.</p>
 <p>ls 명령어는 i노드를 읽어와서 보여준다.</p>
 
-
 <img width="800" src="./img/ftypec.jpg" alt="file system" >
 <p>ftype.c 코드</p>
 <img width="800" src="./img/ftype.jpg" alt="file system" >
