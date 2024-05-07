@@ -9,5 +9,5 @@
 
 ### 수업내용
 
-<img width="800" src="./img/vi.jpg" alt="dir" >
+<img width="800" src="./img/vi2.jpg" alt="dir" >
 <p>[ 명령어 ]</p>
