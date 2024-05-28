@@ -109,9 +109,15 @@
 <img width="800" src="./img/20.jpg" alt="sys" >
 <p>systemTest.c 코드</p>
 
+<img width="800" src="./img/27.jpg" alt="sys" >
+<p>systemTest.c 실행</p>
+
 <hr>
 
 <img width="800" src="./img/21.jpg" alt="sys" >
+<p>system.c 코드</p>
+
+<img width="800" src="./img/28.jpg" alt="sys" >
 <p>system.c 코드</p>
 
 <hr>
