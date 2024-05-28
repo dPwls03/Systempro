@@ -117,9 +117,6 @@
 <img width="800" src="./img/21.jpg" alt="sys" >
 <p>system.c 코드</p>
 
-<img width="800" src="./img/28.jpg" alt="sys" >
-<p>system.c 코드</p>
-
 <hr>
 
 <img width="800" src="./img/22.jpg" alt="sys" >
