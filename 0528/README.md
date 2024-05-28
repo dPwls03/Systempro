@@ -48,3 +48,78 @@
 <img width="800" src="./img/7.jpg" alt="sys" >
 <p>fork1.c 실행</p>
 
+<hr>
+
+<img width="800" src="./img/8.jpg" alt="sys" >
+<p>fork2.c 코드</p>
+
+<img width="800" src="./img/9.jpg" alt="sys" >
+<p>fork2.c 실행</p>
+
+<hr>
+
+<img width="800" src="./img/25.jpg" alt="sys" >
+<p>fork3.c 코드</p>
+
+<img width="800" src="./img/26.jpg" alt="sys" >
+<p>fork3.c 실행</p>
+
+<hr>
+
+<img width="800" src="./img/10.jpg" alt="sys" >
+<p>forkWait.c 코드</p>
+
+<img width="800" src="./img/11.jpg" alt="sys" >
+<p>forkWiat.c 실행</p>
+
+<hr>
+
+<img width="800" src="./img/12.jpg" alt="sys" >
+<p>waitPid.c 코드</p>
+
+<img width="800" src="./img/13.jpg" alt="sys" >
+<p>waitPid.c 실행</p>
+
+<hr>
+
+<img width="800" src="./img/14.jpg" alt="sys" >
+<p>exec1.c 코드</p>
+
+<img width="800" src="./img/15.jpg" alt="sys" >
+<p>exec1.c 실행</p>
+
+<hr>
+
+<img width="800" src="./img/16.jpg" alt="sys" >
+<p>exec2.c 코드</p>
+
+<img width="800" src="./img/17.jpg" alt="sys" >
+<p>exec2.c 실행</p>
+
+<hr>
+
+<img width="800" src="./img/18.jpg" alt="sys" >
+<p>exec3.c 코드</p>
+
+<img width="800" src="./img/19.jpg" alt="sys" >
+<p>exec3.c 실행</p>
+
+<hr>
+
+<img width="800" src="./img/20.jpg" alt="sys" >
+<p>systemTest.c 코드</p>
+
+<hr>
+
+<img width="800" src="./img/21.jpg" alt="sys" >
+<p>system.c 코드</p>
+
+<hr>
+
+<img width="800" src="./img/22.jpg" alt="sys" >
+<p>systemCall.c 코드</p>
+
+<hr>
+
+<img width="800" src="./img/23.jpg" alt="sys" >
+<p>systemCall.c 실행</p>
