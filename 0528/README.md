@@ -13,5 +13,38 @@
 
 ### 수업내용
 
-<img width="800" src="./img/vi2.jpg" alt="dir" >
-<p>[ 명령어 ]</p>
+<img width="800" src="./img/1.jpg" alt="sys" >
+<p>C 프로그램 시작 및 종료</p>
+
+<hr>
+
+<img width="800" src="./img/2.jpg" alt="sys" >
+<p>passwd 명령어</p>
+<p>passwd는 루트가 실행권한을 갖는 파일이고 특별한 실행권한이 필요하다.</p>
+<p>passwd = 패스워드 변경</p>
+
+<hr>
+
+<img width="800" src="./img/3.jpg" alt="sys" >
+
+<hr>
+
+<img width="800" src="./img/4.jpg" alt="sys" >
+<p>0이 출력된 것은 return 0을 의미</p>
+
+<hr>
+
+<img width="800" src="./img/5.jpg" alt="sys" >
+<p>fork()는 자기 자신을 복제하는 함수이다.</p>
+<p>fork()는 한 번 호출되면 두 번 리턴한다.</p>
+<p>자식 프로세스에게는 0을 리턴하고,
+부모 프로세스에게는 자식 프로세스 ID를 리턴한다.</p>
+
+<hr>
+
+<img width="800" src="./img/6.jpg" alt="sys" >
+<p>fork1.c 코드</p>
+
+<img width="800" src="./img/7.jpg" alt="sys" >
+<p>fork1.c 실행</p>
+
