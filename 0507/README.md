@@ -24,6 +24,3 @@ NTFS는 New Technology File System의 약자로 윈도우 NT부터 사용되기 
 <hr>
 
 ### 수업내용
-
-<img width="800" src="./img/vi2.jpg" alt="dir" >
-<p>[ 명령어 ]</p>
